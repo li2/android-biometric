@@ -23,7 +23,7 @@ BiometricAuth.authenticate(this,
 }
 ```
 
-<img width="300" alt="Biometric Prompt" src="https://github.com/li2/android-biometric/blob/master/biometric-prompt.png">
+<img width="300" alt="Biometric Prompt" src="screenshots/biometric-prompt.png">
 
 
 ## Download
